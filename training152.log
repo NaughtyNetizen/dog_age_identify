@@ -1,0 +1,451 @@
+Epoch 1/150
+Train Loss: 48.1279 | Val Loss: 37.4267
+MAE: 37.89 | RMSE: 50.67 | Accuracy (¡À5): 9.33% | Accuracy (¡À3): 5.80% | Accuracy (¡À1): 2.40% | Kappa: 0.0771 | Score: 0.4443
+Epoch 2/150
+Train Loss: 38.2295 | Val Loss: 36.1794
+MAE: 33.77 | RMSE: 46.81 | Accuracy (¡À5): 14.23% | Accuracy (¡À3): 8.80% | Accuracy (¡À1): 3.73% | Kappa: 0.1139 | Score: 0.4771
+Epoch 3/150
+Train Loss: 32.9228 | Val Loss: 37.6353
+MAE: 33.60 | RMSE: 46.66 | Accuracy (¡À5): 14.23% | Accuracy (¡À3): 8.73% | Accuracy (¡À1): 3.60% | Kappa: 0.0833 | Score: 0.4714
+Epoch 4/150
+Train Loss: 30.2592 | Val Loss: 28.6006
+MAE: 28.16 | RMSE: 39.93 | Accuracy (¡À5): 16.17% | Accuracy (¡À3): 10.07% | Accuracy (¡À1): 4.90% | Kappa: 0.2369 | Score: 0.5221
+Epoch 5/150
+Train Loss: 28.2426 | Val Loss: 25.3859
+MAE: 24.99 | RMSE: 36.54 | Accuracy (¡À5): 20.33% | Accuracy (¡À3): 12.50% | Accuracy (¡À1): 5.20% | Kappa: 0.2575 | Score: 0.5471
+Epoch 6/150
+Train Loss: 27.8392 | Val Loss: 26.2407
+MAE: 26.38 | RMSE: 37.38 | Accuracy (¡À5): 17.93% | Accuracy (¡À3): 11.30% | Accuracy (¡À1): 4.73% | Kappa: 0.2656 | Score: 0.5379
+Epoch 7/150
+Train Loss: 27.5305 | Val Loss: 23.2306
+MAE: 23.87 | RMSE: 33.20 | Accuracy (¡À5): 16.97% | Accuracy (¡À3): 10.97% | Accuracy (¡À1): 4.90% | Kappa: 0.3129 | Score: 0.5510
+Epoch 8/150
+Train Loss: 27.5539 | Val Loss: 23.9583
+MAE: 24.93 | RMSE: 33.98 | Accuracy (¡À5): 16.03% | Accuracy (¡À3): 10.17% | Accuracy (¡À1): 4.90% | Kappa: 0.2764 | Score: 0.5381
+Epoch 9/150
+Train Loss: 27.2537 | Val Loss: 24.9088
+MAE: 25.39 | RMSE: 36.48 | Accuracy (¡À5): 19.00% | Accuracy (¡À3): 12.43% | Accuracy (¡À1): 5.60% | Kappa: 0.2991 | Score: 0.5503
+Epoch 10/150
+Train Loss: 27.6009 | Val Loss: 25.2304
+MAE: 25.63 | RMSE: 36.62 | Accuracy (¡À5): 18.40% | Accuracy (¡À3): 11.83% | Accuracy (¡À1): 5.37% | Kappa: 0.3179 | Score: 0.5517
+Epoch 11/150
+Train Loss: 27.5167 | Val Loss: 25.7856
+MAE: 25.85 | RMSE: 36.95 | Accuracy (¡À5): 16.23% | Accuracy (¡À3): 10.30% | Accuracy (¡À1): 4.57% | Kappa: 0.1266 | Score: 0.5064
+Epoch 12/150
+Train Loss: 27.4268 | Val Loss: 33.3596
+MAE: 38.72 | RMSE: 49.97 | Accuracy (¡À5): 8.93% | Accuracy (¡À3): 6.00% | Accuracy (¡À1): 3.00% | Kappa: 0.1506 | Score: 0.4555
+Epoch 13/150
+Train Loss: 27.8949 | Val Loss: 26.2327
+MAE: 25.95 | RMSE: 36.48 | Accuracy (¡À5): 16.93% | Accuracy (¡À3): 11.37% | Accuracy (¡À1): 4.83% | Kappa: 0.1614 | Score: 0.5151
+Epoch 14/150
+Train Loss: 27.7522 | Val Loss: 24.7030
+MAE: 26.58 | RMSE: 35.43 | Accuracy (¡À5): 13.53% | Accuracy (¡À3): 8.43% | Accuracy (¡À1): 3.33% | Kappa: 0.3362 | Score: 0.5383
+Epoch 15/150
+Train Loss: 27.4538 | Val Loss: 23.9501
+MAE: 24.38 | RMSE: 34.58 | Accuracy (¡À5): 17.67% | Accuracy (¡À3): 10.93% | Accuracy (¡À1): 4.57% | Kappa: 0.2571 | Score: 0.5406
+Epoch 16/150
+Train Loss: 27.2412 | Val Loss: 24.1696
+MAE: 24.70 | RMSE: 34.48 | Accuracy (¡À5): 16.23% | Accuracy (¡À3): 9.93% | Accuracy (¡À1): 4.33% | Kappa: 0.2704 | Score: 0.5381
+Epoch 17/150
+Train Loss: 27.2626 | Val Loss: 25.0765
+MAE: 25.37 | RMSE: 35.59 | Accuracy (¡À5): 17.73% | Accuracy (¡À3): 11.03% | Accuracy (¡À1): 5.07% | Kappa: 0.2678 | Score: 0.5403
+Epoch 18/150
+Train Loss: 27.3614 | Val Loss: 26.2835
+MAE: 26.27 | RMSE: 35.61 | Accuracy (¡À5): 14.87% | Accuracy (¡À3): 9.40% | Accuracy (¡À1): 4.33% | Kappa: 0.2363 | Score: 0.5231
+Epoch 19/150
+Train Loss: 27.1703 | Val Loss: 25.4561
+MAE: 25.96 | RMSE: 36.70 | Accuracy (¡À5): 15.97% | Accuracy (¡À3): 10.73% | Accuracy (¡À1): 4.10% | Kappa: 0.2812 | Score: 0.5362
+Epoch 20/150
+Train Loss: 27.0431 | Val Loss: 24.5516
+MAE: 26.45 | RMSE: 34.34 | Accuracy (¡À5): 13.03% | Accuracy (¡À3): 8.67% | Accuracy (¡À1): 3.87% | Kappa: 0.3165 | Score: 0.5332
+Epoch 21/150
+Train Loss: 26.7513 | Val Loss: 24.6710
+MAE: 25.45 | RMSE: 35.76 | Accuracy (¡À5): 18.07% | Accuracy (¡À3): 12.30% | Accuracy (¡À1): 5.33% | Kappa: 0.3215 | Score: 0.5519
+Epoch 22/150
+Train Loss: 26.8380 | Val Loss: 24.9142
+MAE: 25.62 | RMSE: 35.13 | Accuracy (¡À5): 14.90% | Accuracy (¡À3): 9.37% | Accuracy (¡À1): 4.53% | Kappa: 0.2618 | Score: 0.5300
+Epoch 23/150
+Train Loss: 26.6632 | Val Loss: 23.9025
+MAE: 24.42 | RMSE: 34.42 | Accuracy (¡À5): 17.50% | Accuracy (¡À3): 11.47% | Accuracy (¡À1): 5.67% | Kappa: 0.3074 | Score: 0.5501
+Epoch 24/150
+Train Loss: 26.3742 | Val Loss: 23.6988
+MAE: 24.51 | RMSE: 34.04 | Accuracy (¡À5): 16.37% | Accuracy (¡À3): 9.87% | Accuracy (¡À1): 4.27% | Kappa: 0.3044 | Score: 0.5458
+Epoch 25/150
+Train Loss: 26.4147 | Val Loss: 24.8493
+MAE: 26.74 | RMSE: 35.40 | Accuracy (¡À5): 13.43% | Accuracy (¡À3): 8.60% | Accuracy (¡À1): 3.57% | Kappa: 0.2850 | Score: 0.5273
+Epoch 26/150
+Train Loss: 26.2035 | Val Loss: 24.4004
+MAE: 24.93 | RMSE: 34.61 | Accuracy (¡À5): 16.67% | Accuracy (¡À3): 10.07% | Accuracy (¡À1): 4.43% | Kappa: 0.3261 | Score: 0.5499
+Epoch 27/150
+Train Loss: 26.1835 | Val Loss: 24.0185
+MAE: 24.82 | RMSE: 34.50 | Accuracy (¡À5): 15.87% | Accuracy (¡À3): 10.30% | Accuracy (¡À1): 4.13% | Kappa: 0.3014 | Score: 0.5429
+Epoch 28/150
+Train Loss: 26.2232 | Val Loss: 25.2482
+MAE: 27.77 | RMSE: 35.21 | Accuracy (¡À5): 11.57% | Accuracy (¡À3): 7.47% | Accuracy (¡À1): 3.07% | Kappa: 0.2339 | Score: 0.5088
+Epoch 29/150
+Train Loss: 26.1424 | Val Loss: 23.5954
+MAE: 24.74 | RMSE: 33.68 | Accuracy (¡À5): 15.80% | Accuracy (¡À3): 10.10% | Accuracy (¡À1): 4.40% | Kappa: 0.3327 | Score: 0.5492
+Epoch 30/150
+Train Loss: 26.0687 | Val Loss: 23.5043
+MAE: 24.57 | RMSE: 33.55 | Accuracy (¡À5): 16.53% | Accuracy (¡À3): 10.07% | Accuracy (¡À1): 3.90% | Kappa: 0.3322 | Score: 0.5517
+Epoch 31/150
+Train Loss: 25.9276 | Val Loss: 24.3352
+MAE: 26.54 | RMSE: 34.85 | Accuracy (¡À5): 13.60% | Accuracy (¡À3): 8.83% | Accuracy (¡À1): 3.67% | Kappa: 0.3264 | Score: 0.5366
+Epoch 32/150
+Train Loss: 25.9829 | Val Loss: 27.2808
+MAE: 26.78 | RMSE: 37.43 | Accuracy (¡À5): 14.07% | Accuracy (¡À3): 9.43% | Accuracy (¡À1): 4.10% | Kappa: 0.2482 | Score: 0.5217
+Epoch 33/150
+Train Loss: 25.7407 | Val Loss: 25.4131
+MAE: 25.35 | RMSE: 36.36 | Accuracy (¡À5): 18.23% | Accuracy (¡À3): 10.97% | Accuracy (¡À1): 4.47% | Kappa: 0.2726 | Score: 0.5428
+Epoch 34/150
+Train Loss: 25.5495 | Val Loss: 25.8414
+MAE: 29.00 | RMSE: 36.53 | Accuracy (¡À5): 11.47% | Accuracy (¡À3): 7.33% | Accuracy (¡À1): 2.90% | Kappa: 0.3071 | Score: 0.5199
+Epoch 35/150
+Train Loss: 25.6285 | Val Loss: 23.8718
+MAE: 24.02 | RMSE: 34.68 | Accuracy (¡À5): 19.23% | Accuracy (¡À3): 11.47% | Accuracy (¡À1): 5.27% | Kappa: 0.2892 | Score: 0.5526
+Epoch 36/150
+Train Loss: 25.4221 | Val Loss: 24.1848
+MAE: 26.15 | RMSE: 34.40 | Accuracy (¡À5): 13.57% | Accuracy (¡À3): 8.83% | Accuracy (¡À1): 3.33% | Kappa: 0.3307 | Score: 0.5384
+Epoch 37/150
+Train Loss: 25.4493 | Val Loss: 24.2392
+MAE: 25.23 | RMSE: 34.96 | Accuracy (¡À5): 15.73% | Accuracy (¡À3): 9.70% | Accuracy (¡À1): 4.07% | Kappa: 0.2597 | Score: 0.5331
+Epoch 38/150
+Train Loss: 25.3287 | Val Loss: 23.7167
+MAE: 24.51 | RMSE: 34.66 | Accuracy (¡À5): 18.53% | Accuracy (¡À3): 11.53% | Accuracy (¡À1): 5.17% | Kappa: 0.3531 | Score: 0.5621
+Epoch 39/150
+Train Loss: 25.2807 | Val Loss: 24.1674
+MAE: 26.48 | RMSE: 33.76 | Accuracy (¡À5): 11.33% | Accuracy (¡À3): 6.83% | Accuracy (¡À1): 3.07% | Kappa: 0.2912 | Score: 0.5229
+Epoch 40/150
+Train Loss: 25.0031 | Val Loss: 23.6010
+MAE: 23.93 | RMSE: 34.19 | Accuracy (¡À5): 17.67% | Accuracy (¡À3): 11.10% | Accuracy (¡À1): 5.17% | Kappa: 0.2580 | Score: 0.5420
+Epoch 41/150
+Train Loss: 25.0376 | Val Loss: 44.3872
+MAE: 25.86 | RMSE: 34.63 | Accuracy (¡À5): 14.03% | Accuracy (¡À3): 8.83% | Accuracy (¡À1): 3.47% | Kappa: 0.3224 | Score: 0.5389
+Epoch 42/150
+Train Loss: 24.6558 | Val Loss: 24.8347
+MAE: 25.27 | RMSE: 34.15 | Accuracy (¡À5): 15.50% | Accuracy (¡À3): 9.70% | Accuracy (¡À1): 3.93% | Kappa: 0.3677 | Score: 0.5539
+Epoch 43/150
+Train Loss: 24.5551 | Val Loss: 29.2291
+MAE: 25.66 | RMSE: 35.24 | Accuracy (¡À5): 16.90% | Accuracy (¡À3): 10.20% | Accuracy (¡À1): 4.13% | Kappa: 0.3371 | Score: 0.5509
+Epoch 44/150
+Train Loss: 24.5937 | Val Loss: 24.5282
+MAE: 24.92 | RMSE: 34.46 | Accuracy (¡À5): 16.47% | Accuracy (¡À3): 10.90% | Accuracy (¡À1): 3.77% | Kappa: 0.3452 | Score: 0.5532
+Epoch 45/150
+Train Loss: 24.5118 | Val Loss: 23.3138
+MAE: 24.03 | RMSE: 33.28 | Accuracy (¡À5): 17.37% | Accuracy (¡À3): 10.77% | Accuracy (¡À1): 4.33% | Kappa: 0.3339 | Score: 0.5560
+Epoch 46/150
+Train Loss: 24.3515 | Val Loss: 24.0217
+MAE: 25.12 | RMSE: 34.88 | Accuracy (¡À5): 17.43% | Accuracy (¡À3): 10.93% | Accuracy (¡À1): 4.57% | Kappa: 0.3465 | Score: 0.5558
+Epoch 47/150
+Train Loss: 24.2005 | Val Loss: 23.4676
+MAE: 24.21 | RMSE: 33.99 | Accuracy (¡À5): 18.67% | Accuracy (¡À3): 12.07% | Accuracy (¡À1): 4.83% | Kappa: 0.3518 | Score: 0.5630
+Epoch 48/150
+Train Loss: 24.2017 | Val Loss: 23.7272
+MAE: 25.55 | RMSE: 33.44 | Accuracy (¡À5): 13.73% | Accuracy (¡À3): 8.50% | Accuracy (¡À1): 3.37% | Kappa: 0.3609 | Score: 0.5465
+Epoch 49/150
+Train Loss: 23.9772 | Val Loss: 23.3781
+MAE: 24.22 | RMSE: 33.87 | Accuracy (¡À5): 18.23% | Accuracy (¡À3): 11.87% | Accuracy (¡À1): 5.50% | Kappa: 0.4022 | Score: 0.5717
+Epoch 50/150
+Train Loss: 24.0809 | Val Loss: 23.5613
+MAE: 25.29 | RMSE: 33.41 | Accuracy (¡À5): 14.67% | Accuracy (¡À3): 9.93% | Accuracy (¡À1): 4.23% | Kappa: 0.3492 | Score: 0.5476
+Epoch 51/150
+Train Loss: 24.0841 | Val Loss: 24.1990
+MAE: 25.98 | RMSE: 34.95 | Accuracy (¡À5): 15.57% | Accuracy (¡À3): 10.47% | Accuracy (¡À1): 4.07% | Kappa: 0.4151 | Score: 0.5617
+Epoch 52/150
+Train Loss: 24.0206 | Val Loss: 23.3102
+MAE: 24.22 | RMSE: 33.40 | Accuracy (¡À5): 16.87% | Accuracy (¡À3): 10.73% | Accuracy (¡À1): 4.83% | Kappa: 0.3765 | Score: 0.5625
+Epoch 53/150
+Train Loss: 23.7807 | Val Loss: 23.1201
+MAE: 24.92 | RMSE: 33.17 | Accuracy (¡À5): 15.73% | Accuracy (¡À3): 9.87% | Accuracy (¡À1): 4.00% | Kappa: 0.4147 | Score: 0.5649
+Epoch 54/150
+Train Loss: 23.6652 | Val Loss: 22.7800
+MAE: 24.12 | RMSE: 32.59 | Accuracy (¡À5): 16.33% | Accuracy (¡À3): 9.60% | Accuracy (¡À1): 3.90% | Kappa: 0.4186 | Score: 0.5696
+Epoch 55/150
+Train Loss: 23.5733 | Val Loss: 23.2659
+MAE: 24.02 | RMSE: 33.49 | Accuracy (¡À5): 18.10% | Accuracy (¡À3): 11.90% | Accuracy (¡À1): 4.83% | Kappa: 0.4070 | Score: 0.5728
+Epoch 56/150
+Train Loss: 23.5472 | Val Loss: 23.1469
+MAE: 24.05 | RMSE: 33.50 | Accuracy (¡À5): 18.63% | Accuracy (¡À3): 12.00% | Accuracy (¡À1): 5.33% | Kappa: 0.4166 | Score: 0.5763
+Epoch 57/150
+Train Loss: 23.5201 | Val Loss: 22.9046
+MAE: 23.94 | RMSE: 33.13 | Accuracy (¡À5): 18.90% | Accuracy (¡À3): 12.20% | Accuracy (¡À1): 5.47% | Kappa: 0.4031 | Score: 0.5747
+Epoch 58/150
+Train Loss: 23.4293 | Val Loss: 23.0381
+MAE: 23.68 | RMSE: 33.40 | Accuracy (¡À5): 18.53% | Accuracy (¡À3): 11.77% | Accuracy (¡À1): 4.97% | Kappa: 0.4117 | Score: 0.5760
+Epoch 59/150
+Train Loss: 23.3341 | Val Loss: 22.9383
+MAE: 24.48 | RMSE: 32.81 | Accuracy (¡À5): 16.23% | Accuracy (¡À3): 10.33% | Accuracy (¡À1): 4.23% | Kappa: 0.4320 | Score: 0.5710
+Epoch 60/150
+Train Loss: 23.3335 | Val Loss: 22.8726
+MAE: 24.37 | RMSE: 32.71 | Accuracy (¡À5): 14.87% | Accuracy (¡À3): 9.53% | Accuracy (¡À1): 4.07% | Kappa: 0.4223 | Score: 0.5653
+Epoch 61/150
+Train Loss: 23.2397 | Val Loss: 24.3780
+MAE: 24.62 | RMSE: 35.83 | Accuracy (¡À5): 19.40% | Accuracy (¡À3): 12.50% | Accuracy (¡À1): 4.97% | Kappa: 0.4167 | Score: 0.5771
+Epoch 62/150
+Train Loss: 23.1828 | Val Loss: 23.4090
+MAE: 23.82 | RMSE: 33.96 | Accuracy (¡À5): 19.03% | Accuracy (¡À3): 13.03% | Accuracy (¡À1): 5.67% | Kappa: 0.4166 | Score: 0.5781
+Epoch 63/150
+Train Loss: 23.1944 | Val Loss: 23.6313
+MAE: 25.49 | RMSE: 34.09 | Accuracy (¡À5): 16.90% | Accuracy (¡À3): 10.83% | Accuracy (¡À1): 4.70% | Kappa: 0.4616 | Score: 0.5763
+Epoch 64/150
+Train Loss: 23.1408 | Val Loss: 22.3026
+MAE: 23.28 | RMSE: 32.23 | Accuracy (¡À5): 18.13% | Accuracy (¡À3): 12.53% | Accuracy (¡À1): 5.50% | Kappa: 0.4552 | Score: 0.5845
+Epoch 65/150
+Train Loss: 22.9745 | Val Loss: 22.6299
+MAE: 23.58 | RMSE: 32.71 | Accuracy (¡À5): 17.80% | Accuracy (¡À3): 10.90% | Accuracy (¡À1): 4.70% | Kappa: 0.4452 | Score: 0.5807
+Epoch 66/150
+Train Loss: 22.9936 | Val Loss: 22.8682
+MAE: 23.67 | RMSE: 33.11 | Accuracy (¡À5): 18.33% | Accuracy (¡À3): 12.33% | Accuracy (¡À1): 4.83% | Kappa: 0.4472 | Score: 0.5825
+Epoch 67/150
+Train Loss: 22.9587 | Val Loss: 22.7644
+MAE: 23.92 | RMSE: 33.00 | Accuracy (¡À5): 17.20% | Accuracy (¡À3): 11.10% | Accuracy (¡À1): 4.53% | Kappa: 0.4393 | Score: 0.5768
+Epoch 68/150
+Train Loss: 22.8646 | Val Loss: 22.0840
+MAE: 23.02 | RMSE: 32.28 | Accuracy (¡À5): 19.20% | Accuracy (¡À3): 12.27% | Accuracy (¡À1): 5.67% | Kappa: 0.4426 | Score: 0.5859
+Epoch 69/150
+Train Loss: 22.8013 | Val Loss: 22.0030
+MAE: 23.06 | RMSE: 31.98 | Accuracy (¡À5): 19.00% | Accuracy (¡À3): 12.23% | Accuracy (¡À1): 5.47% | Kappa: 0.4535 | Score: 0.5873
+Epoch 70/150
+Train Loss: 22.8583 | Val Loss: 23.1794
+MAE: 23.53 | RMSE: 33.75 | Accuracy (¡À5): 19.53% | Accuracy (¡À3): 12.53% | Accuracy (¡À1): 5.80% | Kappa: 0.4225 | Score: 0.5815
+Epoch 71/150
+Train Loss: 22.8205 | Val Loss: 22.9151
+MAE: 23.55 | RMSE: 33.20 | Accuracy (¡À5): 17.87% | Accuracy (¡À3): 11.20% | Accuracy (¡À1): 4.97% | Kappa: 0.4359 | Score: 0.5791
+Epoch 72/150
+Train Loss: 22.6737 | Val Loss: 21.8285
+MAE: 22.71 | RMSE: 31.63 | Accuracy (¡À5): 19.07% | Accuracy (¡À3): 12.63% | Accuracy (¡À1): 5.70% | Kappa: 0.4402 | Score: 0.5858
+Epoch 73/150
+Train Loss: 22.6839 | Val Loss: 22.7975
+MAE: 24.73 | RMSE: 33.97 | Accuracy (¡À5): 17.67% | Accuracy (¡À3): 11.27% | Accuracy (¡À1): 4.80% | Kappa: 0.4921 | Score: 0.5867
+Epoch 74/150
+Train Loss: 22.7263 | Val Loss: 21.8964
+MAE: 22.46 | RMSE: 31.94 | Accuracy (¡À5): 20.80% | Accuracy (¡À3): 12.93% | Accuracy (¡À1): 5.83% | Kappa: 0.4611 | Score: 0.5958
+Epoch 75/150
+Train Loss: 22.5532 | Val Loss: 22.5124
+MAE: 22.85 | RMSE: 32.86 | Accuracy (¡À5): 20.07% | Accuracy (¡À3): 12.90% | Accuracy (¡À1): 5.43% | Kappa: 0.4331 | Score: 0.5870
+Epoch 76/150
+Train Loss: 22.5711 | Val Loss: 23.2801
+MAE: 23.55 | RMSE: 33.72 | Accuracy (¡À5): 19.97% | Accuracy (¡À3): 13.30% | Accuracy (¡À1): 6.13% | Kappa: 0.4102 | Score: 0.5803
+Epoch 77/150
+Train Loss: 22.5090 | Val Loss: 23.0910
+MAE: 23.17 | RMSE: 33.77 | Accuracy (¡À5): 19.87% | Accuracy (¡À3): 12.70% | Accuracy (¡À1): 4.80% | Kappa: 0.3889 | Score: 0.5767
+Epoch 78/150
+Train Loss: 22.4226 | Val Loss: 21.5883
+MAE: 22.62 | RMSE: 31.58 | Accuracy (¡À5): 18.90% | Accuracy (¡À3): 12.40% | Accuracy (¡À1): 5.00% | Kappa: 0.4716 | Score: 0.5918
+Epoch 79/150
+Train Loss: 22.3042 | Val Loss: 21.9297
+MAE: 23.23 | RMSE: 32.03 | Accuracy (¡À5): 17.97% | Accuracy (¡À3): 11.63% | Accuracy (¡À1): 4.93% | Kappa: 0.4959 | Score: 0.5923
+Epoch 80/150
+Train Loss: 22.3208 | Val Loss: 22.0077
+MAE: 23.41 | RMSE: 32.48 | Accuracy (¡À5): 18.70% | Accuracy (¡À3): 11.83% | Accuracy (¡À1): 4.30% | Kappa: 0.4867 | Score: 0.5921
+Epoch 81/150
+Train Loss: 22.3190 | Val Loss: 21.8623
+MAE: 22.56 | RMSE: 32.10 | Accuracy (¡À5): 19.70% | Accuracy (¡À3): 13.13% | Accuracy (¡À1): 5.80% | Kappa: 0.4581 | Score: 0.5917
+Epoch 82/150
+Train Loss: 22.3061 | Val Loss: 21.6802
+MAE: 22.92 | RMSE: 32.01 | Accuracy (¡À5): 19.33% | Accuracy (¡À3): 12.90% | Accuracy (¡À1): 5.57% | Kappa: 0.5131 | Score: 0.6006
+Epoch 83/150
+Train Loss: 22.1250 | Val Loss: 21.8438
+MAE: 22.81 | RMSE: 31.86 | Accuracy (¡À5): 18.53% | Accuracy (¡À3): 12.23% | Accuracy (¡À1): 4.57% | Kappa: 0.4822 | Score: 0.5923
+Epoch 84/150
+Train Loss: 22.1507 | Val Loss: 21.8224
+MAE: 22.83 | RMSE: 32.05 | Accuracy (¡À5): 19.30% | Accuracy (¡À3): 12.50% | Accuracy (¡À1): 5.07% | Kappa: 0.5016 | Score: 0.5985
+Epoch 85/150
+Train Loss: 22.1364 | Val Loss: 22.6565
+MAE: 24.76 | RMSE: 33.31 | Accuracy (¡À5): 17.03% | Accuracy (¡À3): 10.70% | Accuracy (¡À1): 4.63% | Kappa: 0.5164 | Score: 0.5896
+Epoch 86/150
+Train Loss: 21.9735 | Val Loss: 21.4729
+MAE: 22.75 | RMSE: 31.54 | Accuracy (¡À5): 18.70% | Accuracy (¡À3): 12.07% | Accuracy (¡À1): 5.37% | Kappa: 0.4831 | Score: 0.5932
+Epoch 87/150
+Train Loss: 21.9935 | Val Loss: 22.0708
+MAE: 22.38 | RMSE: 32.47 | Accuracy (¡À5): 20.70% | Accuracy (¡À3): 13.53% | Accuracy (¡À1): 5.80% | Kappa: 0.4407 | Score: 0.5917
+Epoch 88/150
+Train Loss: 22.0106 | Val Loss: 22.2779
+MAE: 23.07 | RMSE: 33.09 | Accuracy (¡À5): 20.03% | Accuracy (¡À3): 13.13% | Accuracy (¡À1): 6.17% | Kappa: 0.4996 | Score: 0.5996
+Epoch 89/150
+Train Loss: 21.9314 | Val Loss: 21.6719
+MAE: 22.84 | RMSE: 31.78 | Accuracy (¡À5): 18.30% | Accuracy (¡À3): 11.97% | Accuracy (¡À1): 5.73% | Kappa: 0.4969 | Score: 0.5945
+Epoch 90/150
+Train Loss: 21.8846 | Val Loss: 21.8868
+MAE: 23.42 | RMSE: 32.07 | Accuracy (¡À5): 17.47% | Accuracy (¡À3): 11.13% | Accuracy (¡À1): 4.67% | Kappa: 0.5083 | Score: 0.5927
+Epoch 91/150
+Train Loss: 21.9325 | Val Loss: 21.8728
+MAE: 23.48 | RMSE: 32.07 | Accuracy (¡À5): 17.80% | Accuracy (¡À3): 11.47% | Accuracy (¡À1): 5.03% | Kappa: 0.5202 | Score: 0.5960
+Epoch 92/150
+Train Loss: 21.7874 | Val Loss: 21.4499
+MAE: 22.25 | RMSE: 31.66 | Accuracy (¡À5): 20.83% | Accuracy (¡À3): 14.07% | Accuracy (¡À1): 5.80% | Kappa: 0.5029 | Score: 0.6048
+Epoch 93/150
+Train Loss: 21.7622 | Val Loss: 21.7819
+MAE: 22.30 | RMSE: 31.89 | Accuracy (¡À5): 20.57% | Accuracy (¡À3): 12.87% | Accuracy (¡À1): 5.83% | Kappa: 0.4827 | Score: 0.5998
+Epoch 94/150
+Train Loss: 21.6844 | Val Loss: 21.5056
+MAE: 22.94 | RMSE: 31.85 | Accuracy (¡À5): 19.07% | Accuracy (¡À3): 11.77% | Accuracy (¡À1): 4.97% | Kappa: 0.5275 | Score: 0.6027
+Epoch 95/150
+Train Loss: 21.6743 | Val Loss: 21.6966
+MAE: 22.43 | RMSE: 31.85 | Accuracy (¡À5): 20.70% | Accuracy (¡À3): 13.40% | Accuracy (¡À1): 5.53% | Kappa: 0.5011 | Score: 0.6036
+Epoch 96/150
+Train Loss: 21.4666 | Val Loss: 21.4506
+MAE: 21.78 | RMSE: 31.60 | Accuracy (¡À5): 21.50% | Accuracy (¡À3): 13.43% | Accuracy (¡À1): 6.20% | Kappa: 0.4654 | Score: 0.6006
+Epoch 97/150
+Train Loss: 21.6465 | Val Loss: 21.2564
+MAE: 22.22 | RMSE: 31.40 | Accuracy (¡À5): 20.33% | Accuracy (¡À3): 13.03% | Accuracy (¡À1): 5.93% | Kappa: 0.5120 | Score: 0.6052
+Epoch 98/150
+Train Loss: 21.4877 | Val Loss: 21.3373
+MAE: 22.61 | RMSE: 31.43 | Accuracy (¡À5): 18.90% | Accuracy (¡À3): 12.50% | Accuracy (¡À1): 5.23% | Kappa: 0.5172 | Score: 0.6010
+Epoch 99/150
+Train Loss: 21.5745 | Val Loss: 21.3407
+MAE: 22.78 | RMSE: 31.45 | Accuracy (¡À5): 18.43% | Accuracy (¡À3): 12.07% | Accuracy (¡À1): 5.67% | Kappa: 0.5321 | Score: 0.6021
+Epoch 100/150
+Train Loss: 21.4634 | Val Loss: 21.3717
+MAE: 21.90 | RMSE: 31.40 | Accuracy (¡À5): 20.70% | Accuracy (¡À3): 12.67% | Accuracy (¡À1): 5.70% | Kappa: 0.5027 | Score: 0.6053
+Epoch 101/150
+Train Loss: 21.5142 | Val Loss: 21.0715
+MAE: 21.65 | RMSE: 31.19 | Accuracy (¡À5): 21.70% | Accuracy (¡À3): 13.17% | Accuracy (¡À1): 6.17% | Kappa: 0.5086 | Score: 0.6101
+Epoch 102/150
+Train Loss: 21.2876 | Val Loss: 21.4325
+MAE: 22.12 | RMSE: 31.51 | Accuracy (¡À5): 20.87% | Accuracy (¡À3): 13.10% | Accuracy (¡À1): 5.33% | Kappa: 0.5113 | Score: 0.6070
+Epoch 103/150
+Train Loss: 21.4283 | Val Loss: 21.2085
+MAE: 21.75 | RMSE: 31.39 | Accuracy (¡À5): 22.03% | Accuracy (¡À3): 14.03% | Accuracy (¡À1): 6.07% | Kappa: 0.5024 | Score: 0.6097
+Epoch 104/150
+Train Loss: 21.2082 | Val Loss: 21.4498
+MAE: 22.08 | RMSE: 31.69 | Accuracy (¡À5): 20.40% | Accuracy (¡À3): 13.33% | Accuracy (¡À1): 5.77% | Kappa: 0.5094 | Score: 0.6053
+Epoch 105/150
+Train Loss: 21.3988 | Val Loss: 21.0260
+MAE: 21.95 | RMSE: 31.05 | Accuracy (¡À5): 19.77% | Accuracy (¡À3): 13.17% | Accuracy (¡À1): 5.57% | Kappa: 0.5253 | Score: 0.6069
+Epoch 106/150
+Train Loss: 21.2640 | Val Loss: 21.0444
+MAE: 22.07 | RMSE: 31.18 | Accuracy (¡À5): 19.97% | Accuracy (¡À3): 12.57% | Accuracy (¡À1): 6.40% | Kappa: 0.5351 | Score: 0.6091
+Epoch 107/150
+Train Loss: 21.1973 | Val Loss: 21.1305
+MAE: 22.24 | RMSE: 31.40 | Accuracy (¡À5): 19.73% | Accuracy (¡À3): 12.13% | Accuracy (¡À1): 5.63% | Kappa: 0.5472 | Score: 0.6104
+Epoch 108/150
+Train Loss: 21.1041 | Val Loss: 20.8244
+MAE: 21.59 | RMSE: 30.73 | Accuracy (¡À5): 20.73% | Accuracy (¡À3): 13.57% | Accuracy (¡À1): 5.40% | Kappa: 0.5348 | Score: 0.6126
+Epoch 109/150
+Train Loss: 21.0995 | Val Loss: 20.8711
+MAE: 21.95 | RMSE: 30.90 | Accuracy (¡À5): 20.17% | Accuracy (¡À3): 12.50% | Accuracy (¡À1): 5.20% | Kappa: 0.5346 | Score: 0.6100
+Epoch 110/150
+Train Loss: 21.0613 | Val Loss: 21.0134
+MAE: 21.97 | RMSE: 31.03 | Accuracy (¡À5): 19.80% | Accuracy (¡À3): 13.07% | Accuracy (¡À1): 4.90% | Kappa: 0.5387 | Score: 0.6096
+Epoch 111/150
+Train Loss: 20.9915 | Val Loss: 20.8390
+MAE: 21.76 | RMSE: 30.98 | Accuracy (¡À5): 20.30% | Accuracy (¡À3): 12.77% | Accuracy (¡À1): 5.33% | Kappa: 0.5312 | Score: 0.6102
+Epoch 112/150
+Train Loss: 21.1211 | Val Loss: 21.2782
+MAE: 21.63 | RMSE: 31.32 | Accuracy (¡À5): 21.77% | Accuracy (¡À3): 13.97% | Accuracy (¡À1): 5.73% | Kappa: 0.4940 | Score: 0.6075
+Epoch 113/150
+Train Loss: 21.0557 | Val Loss: 20.8446
+MAE: 21.59 | RMSE: 30.96 | Accuracy (¡À5): 21.63% | Accuracy (¡À3): 14.93% | Accuracy (¡À1): 6.47% | Kappa: 0.5218 | Score: 0.6127
+Epoch 114/150
+Train Loss: 21.0231 | Val Loss: 21.0925
+MAE: 21.87 | RMSE: 31.41 | Accuracy (¡À5): 21.80% | Accuracy (¡À3): 13.40% | Accuracy (¡À1): 5.57% | Kappa: 0.5195 | Score: 0.6120
+Epoch 115/150
+Train Loss: 20.9405 | Val Loss: 20.9615
+MAE: 21.68 | RMSE: 30.81 | Accuracy (¡À5): 20.73% | Accuracy (¡À3): 12.47% | Accuracy (¡À1): 5.73% | Kappa: 0.5179 | Score: 0.6090
+Epoch 116/150
+Train Loss: 20.9050 | Val Loss: 20.8250
+MAE: 21.40 | RMSE: 30.72 | Accuracy (¡À5): 21.07% | Accuracy (¡À3): 14.33% | Accuracy (¡À1): 5.87% | Kappa: 0.5240 | Score: 0.6120
+Epoch 117/150
+Train Loss: 20.7544 | Val Loss: 21.0430
+MAE: 21.80 | RMSE: 31.10 | Accuracy (¡À5): 21.47% | Accuracy (¡À3): 13.33% | Accuracy (¡À1): 5.00% | Kappa: 0.5412 | Score: 0.6156
+Epoch 118/150
+Train Loss: 20.8620 | Val Loss: 20.9179
+MAE: 21.64 | RMSE: 30.90 | Accuracy (¡À5): 21.33% | Accuracy (¡À3): 13.90% | Accuracy (¡À1): 5.87% | Kappa: 0.5316 | Score: 0.6137
+Epoch 119/150
+Train Loss: 20.7958 | Val Loss: 20.9512
+MAE: 21.52 | RMSE: 30.94 | Accuracy (¡À5): 21.60% | Accuracy (¡À3): 13.83% | Accuracy (¡À1): 6.20% | Kappa: 0.5200 | Score: 0.6125
+Epoch 120/150
+Train Loss: 20.8108 | Val Loss: 21.2387
+MAE: 21.67 | RMSE: 31.38 | Accuracy (¡À5): 21.67% | Accuracy (¡À3): 13.67% | Accuracy (¡À1): 5.60% | Kappa: 0.5071 | Score: 0.6097
+Epoch 121/150
+Train Loss: 20.6688 | Val Loss: 20.9938
+MAE: 21.54 | RMSE: 31.25 | Accuracy (¡À5): 21.63% | Accuracy (¡À3): 14.87% | Accuracy (¡À1): 6.17% | Kappa: 0.5172 | Score: 0.6120
+Epoch 122/150
+Train Loss: 20.8080 | Val Loss: 21.0076
+MAE: 21.53 | RMSE: 31.13 | Accuracy (¡À5): 21.17% | Accuracy (¡À3): 13.83% | Accuracy (¡À1): 5.97% | Kappa: 0.5197 | Score: 0.6111
+Epoch 123/150
+Train Loss: 20.6461 | Val Loss: 20.9316
+MAE: 21.66 | RMSE: 31.01 | Accuracy (¡À5): 20.73% | Accuracy (¡À3): 13.37% | Accuracy (¡À1): 5.67% | Kappa: 0.5292 | Score: 0.6113
+Epoch 124/150
+Train Loss: 20.6133 | Val Loss: 20.8378
+MAE: 21.46 | RMSE: 30.86 | Accuracy (¡À5): 21.17% | Accuracy (¡À3): 13.40% | Accuracy (¡À1): 5.43% | Kappa: 0.5302 | Score: 0.6134
+Epoch 125/150
+Train Loss: 20.7557 | Val Loss: 20.8897
+MAE: 21.55 | RMSE: 31.08 | Accuracy (¡À5): 21.87% | Accuracy (¡À3): 13.43% | Accuracy (¡À1): 5.37% | Kappa: 0.5353 | Score: 0.6163
+Epoch 126/150
+Train Loss: 20.6663 | Val Loss: 20.7428
+MAE: 21.36 | RMSE: 30.83 | Accuracy (¡À5): 21.77% | Accuracy (¡À3): 14.37% | Accuracy (¡À1): 6.17% | Kappa: 0.5274 | Score: 0.6149
+Epoch 127/150
+Train Loss: 20.6067 | Val Loss: 20.8363
+MAE: 21.53 | RMSE: 31.00 | Accuracy (¡À5): 21.63% | Accuracy (¡À3): 14.40% | Accuracy (¡À1): 6.37% | Kappa: 0.5397 | Score: 0.6165
+Epoch 128/150
+Train Loss: 20.6568 | Val Loss: 20.6486
+MAE: 21.41 | RMSE: 30.77 | Accuracy (¡À5): 21.20% | Accuracy (¡À3): 13.67% | Accuracy (¡À1): 5.80% | Kappa: 0.5361 | Score: 0.6148
+Epoch 129/150
+Train Loss: 20.6906 | Val Loss: 20.6924
+MAE: 21.30 | RMSE: 30.73 | Accuracy (¡À5): 21.73% | Accuracy (¡À3): 14.90% | Accuracy (¡À1): 6.17% | Kappa: 0.5298 | Score: 0.6154
+Epoch 130/150
+Train Loss: 20.5152 | Val Loss: 20.6954
+MAE: 21.52 | RMSE: 30.78 | Accuracy (¡À5): 21.93% | Accuracy (¡À3): 13.70% | Accuracy (¡À1): 6.13% | Kappa: 0.5441 | Score: 0.6183
+Epoch 131/150
+Train Loss: 20.4806 | Val Loss: 20.7176
+MAE: 21.42 | RMSE: 30.73 | Accuracy (¡À5): 20.37% | Accuracy (¡À3): 13.73% | Accuracy (¡À1): 5.73% | Kappa: 0.5321 | Score: 0.6114
+Epoch 132/150
+Train Loss: 20.4961 | Val Loss: 20.8798
+MAE: 21.46 | RMSE: 31.08 | Accuracy (¡À5): 22.13% | Accuracy (¡À3): 14.23% | Accuracy (¡À1): 6.23% | Kappa: 0.5264 | Score: 0.6155
+Epoch 133/150
+Train Loss: 20.4680 | Val Loss: 20.6630
+MAE: 21.47 | RMSE: 30.79 | Accuracy (¡À5): 21.50% | Accuracy (¡À3): 13.93% | Accuracy (¡À1): 6.17% | Kappa: 0.5410 | Score: 0.6165
+Epoch 134/150
+Train Loss: 20.3741 | Val Loss: 20.5830
+MAE: 21.41 | RMSE: 30.62 | Accuracy (¡À5): 21.47% | Accuracy (¡À3): 14.10% | Accuracy (¡À1): 6.37% | Kappa: 0.5424 | Score: 0.6168
+Epoch 135/150
+Train Loss: 20.5061 | Val Loss: 20.6284
+MAE: 21.53 | RMSE: 30.73 | Accuracy (¡À5): 20.87% | Accuracy (¡À3): 13.87% | Accuracy (¡À1): 6.03% | Kappa: 0.5467 | Score: 0.6156
+Epoch 136/150
+Train Loss: 20.5385 | Val Loss: 20.8278
+MAE: 21.33 | RMSE: 30.89 | Accuracy (¡À5): 21.43% | Accuracy (¡À3): 14.03% | Accuracy (¡À1): 6.17% | Kappa: 0.5216 | Score: 0.6128
+Epoch 137/150
+Train Loss: 20.3932 | Val Loss: 20.6128
+MAE: 21.26 | RMSE: 30.61 | Accuracy (¡À5): 21.63% | Accuracy (¡À3): 13.97% | Accuracy (¡À1): 6.03% | Kappa: 0.5321 | Score: 0.6157
+Epoch 138/150
+Train Loss: 20.4671 | Val Loss: 20.8483
+MAE: 21.36 | RMSE: 30.84 | Accuracy (¡À5): 21.60% | Accuracy (¡À3): 13.83% | Accuracy (¡À1): 5.70% | Kappa: 0.5252 | Score: 0.6139
+Epoch 139/150
+Train Loss: 20.4515 | Val Loss: 20.8178
+MAE: 21.36 | RMSE: 30.95 | Accuracy (¡À5): 22.07% | Accuracy (¡À3): 14.83% | Accuracy (¡À1): 5.97% | Kappa: 0.5277 | Score: 0.6158
+Epoch 140/150
+Train Loss: 20.3849 | Val Loss: 20.6039
+MAE: 21.48 | RMSE: 30.58 | Accuracy (¡À5): 21.23% | Accuracy (¡À3): 13.87% | Accuracy (¡À1): 5.97% | Kappa: 0.5477 | Score: 0.6170
+Epoch 141/150
+Train Loss: 20.5972 | Val Loss: 20.6551
+MAE: 21.29 | RMSE: 30.68 | Accuracy (¡À5): 21.57% | Accuracy (¡À3): 14.47% | Accuracy (¡À1): 5.73% | Kappa: 0.5373 | Score: 0.6164
+Epoch 142/150
+Train Loss: 20.3460 | Val Loss: 20.7003
+MAE: 21.40 | RMSE: 30.76 | Accuracy (¡À5): 21.57% | Accuracy (¡À3): 14.27% | Accuracy (¡À1): 5.63% | Kappa: 0.5412 | Score: 0.6169
+Epoch 143/150
+Train Loss: 20.4334 | Val Loss: 20.7357
+MAE: 21.28 | RMSE: 30.73 | Accuracy (¡À5): 21.47% | Accuracy (¡À3): 14.23% | Accuracy (¡À1): 6.00% | Kappa: 0.5291 | Score: 0.6145
+Epoch 144/150
+Train Loss: 20.4197 | Val Loss: 20.6477
+MAE: 21.29 | RMSE: 30.73 | Accuracy (¡À5): 21.87% | Accuracy (¡À3): 14.20% | Accuracy (¡À1): 6.13% | Kappa: 0.5374 | Score: 0.6173
+Epoch 145/150
+Train Loss: 20.2629 | Val Loss: 20.6674
+MAE: 21.32 | RMSE: 30.72 | Accuracy (¡À5): 21.77% | Accuracy (¡À3): 14.17% | Accuracy (¡À1): 5.87% | Kappa: 0.5351 | Score: 0.6165
+Epoch 146/150
+Train Loss: 20.3115 | Val Loss: 20.6448
+MAE: 21.36 | RMSE: 30.69 | Accuracy (¡À5): 21.67% | Accuracy (¡À3): 14.17% | Accuracy (¡À1): 5.73% | Kappa: 0.5398 | Score: 0.6170
+Epoch 147/150
+Train Loss: 20.4216 | Val Loss: 20.7382
+MAE: 21.26 | RMSE: 30.73 | Accuracy (¡À5): 21.53% | Accuracy (¡À3): 13.83% | Accuracy (¡À1): 5.90% | Kappa: 0.5250 | Score: 0.6140
+Epoch 148/150
+Train Loss: 20.3244 | Val Loss: 20.7194
+MAE: 21.33 | RMSE: 30.74 | Accuracy (¡À5): 21.50% | Accuracy (¡À3): 14.40% | Accuracy (¡À1): 6.10% | Kappa: 0.5322 | Score: 0.6151
+Epoch 149/150
+Train Loss: 20.4565 | Val Loss: 20.6980
+MAE: 21.50 | RMSE: 30.84 | Accuracy (¡À5): 21.63% | Accuracy (¡À3): 13.73% | Accuracy (¡À1): 5.43% | Kappa: 0.5458 | Score: 0.6178
+Epoch 150/150
+Train Loss: 20.4349 | Val Loss: 20.6137
+MAE: 21.29 | RMSE: 30.61 | Accuracy (¡À5): 21.50% | Accuracy (¡À3): 14.23% | Accuracy (¡À1): 5.77% | Kappa: 0.5361 | Score: 0.6160
+Training completed. Best score: 0.6183

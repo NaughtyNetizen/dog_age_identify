@@ -1,0 +1,34 @@
+# 实验配置
+data:
+  train_root: "trainset"  # 训练集根目录
+  train_anno: "./annotations/train.txt"  # 训练集标注文件路径
+  val_root: "valset"  # 验证集根目录
+  val_anno: "./annotations/val.txt"  # 验证集标注文件路径
+
+training:
+  batch_size: 16  # 批次大小
+  num_workers: 2  # 数据加载线程数
+  accumulation_steps: 1  # 梯度累积步数
+  lr: 0.001  # 初始学习率
+  weight_decay: 0.0001  # 权重衰减
+  num_epochs: 150  # 最大训练轮数
+  patience: 10  # 早停耐心值
+  max_age: 191  # 最大年龄值（用于损失计算和评估）
+
+model:
+  base: "resnet50"  # 基础模型架构
+  frozen_layers: ["layer1", "layer2"]  # 冻结的层
+  num_classes: 192  # 分类数
+  
+augmentation:
+  train:  # 训练集数据增强
+    RandomResizedCrop: 224  # 随机裁剪尺寸
+    RandomHorizontalFlip: 0.5  # 水平翻转概率
+    ColorJitter: [0.2, 0.2, 0.1, 0.05]  # 颜色抖动参数
+    RandomRotation: 30  # 随机旋转角度
+    RandomAffine:  # 随机仿射变换
+      degrees: 0  # 旋转角度范围
+      translate: [0.15, 0.15]  # 平移范围
+  val:  # 验证集数据增强
+    Resize: 256  # 调整大小
+    CenterCrop: 224  # 中心裁剪

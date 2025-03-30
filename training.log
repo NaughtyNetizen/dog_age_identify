@@ -1,0 +1,451 @@
+Epoch 1/150
+Train Loss: 6.7578 | Val Loss: 5.1697
+MAE: 28.43 | RMSE: 37.90 | Acc: 1.37% | Acc  1: 4.01% | Acc  3: 9.16% | Acc  5: 14.48% | Kappa: 0.1349 | Score: 0.2328
+Epoch 2/150
+Train Loss: 5.9630 | Val Loss: 5.1573
+MAE: 29.86 | RMSE: 39.64 | Acc: 1.81% | Acc  1: 5.08% | Acc  3: 10.03% | Acc  5: 14.28% | Kappa: 0.3677 | Score: 0.2557
+Epoch 3/150
+Train Loss: 5.7566 | Val Loss: 5.1523
+MAE: 28.40 | RMSE: 37.99 | Acc: 1.61% | Acc  1: 5.08% | Acc  3: 11.10% | Acc  5: 16.09% | Kappa: 0.3028 | Score: 0.2554
+Epoch 4/150
+Train Loss: 5.6882 | Val Loss: 5.0888
+MAE: 28.62 | RMSE: 37.41 | Acc: 1.30% | Acc  1: 4.38% | Acc  3: 9.26% | Acc  5: 14.88% | Kappa: 0.3367 | Score: 0.2537
+Epoch 5/150
+Train Loss: 5.5936 | Val Loss: 5.0721
+MAE: 30.73 | RMSE: 41.74 | Acc: 1.47% | Acc  1: 4.82% | Acc  3: 9.53% | Acc  5: 13.95% | Kappa: 0.2040 | Score: 0.2361
+Epoch 6/150
+Train Loss: 5.5319 | Val Loss: 4.9058
+MAE: 26.32 | RMSE: 36.45 | Acc: 2.11% | Acc  1: 5.62% | Acc  3: 12.74% | Acc  5: 18.39% | Kappa: 0.3018 | Score: 0.2664
+Epoch 7/150
+Train Loss: 5.4952 | Val Loss: 5.1139
+MAE: 26.22 | RMSE: 36.59 | Acc: 2.04% | Acc  1: 5.42% | Acc  3: 11.74% | Acc  5: 18.29% | Kappa: 0.2752 | Score: 0.2633
+Epoch 8/150
+Train Loss: 5.4261 | Val Loss: 4.9257
+MAE: 29.71 | RMSE: 39.73 | Acc: 1.34% | Acc  1: 4.15% | Acc  3: 9.03% | Acc  5: 12.54% | Kappa: 0.3003 | Score: 0.2421
+Epoch 9/150
+Train Loss: 5.3490 | Val Loss: 4.8546
+MAE: 25.23 | RMSE: 36.04 | Acc: 1.61% | Acc  1: 5.12% | Acc  3: 13.65% | Acc  5: 19.43% | Kappa: 0.2784 | Score: 0.2663
+Epoch 10/150
+Train Loss: 5.3227 | Val Loss: 5.5097
+MAE: 33.01 | RMSE: 41.66 | Acc: 1.17% | Acc  1: 3.78% | Acc  3: 8.49% | Acc  5: 12.31% | Kappa: 0.1818 | Score: 0.2254
+Epoch 11/150
+Train Loss: 5.2893 | Val Loss: 5.0458
+MAE: 31.56 | RMSE: 41.02 | Acc: 1.00% | Acc  1: 3.78% | Acc  3: 8.29% | Acc  5: 12.71% | Kappa: 0.2381 | Score: 0.2331
+Epoch 12/150
+Train Loss: 5.2722 | Val Loss: 4.8163
+MAE: 27.02 | RMSE: 36.99 | Acc: 1.84% | Acc  1: 5.52% | Acc  3: 11.37% | Acc  5: 17.32% | Kappa: 0.3244 | Score: 0.2636
+Epoch 13/150
+Train Loss: 5.2642 | Val Loss: 4.7816
+MAE: 28.60 | RMSE: 37.65 | Acc: 1.87% | Acc  1: 4.92% | Acc  3: 10.17% | Acc  5: 14.38% | Kappa: 0.3361 | Score: 0.2545
+Epoch 14/150
+Train Loss: 5.2554 | Val Loss: 4.9862
+MAE: 26.83 | RMSE: 36.38 | Acc: 1.61% | Acc  1: 4.55% | Acc  3: 10.87% | Acc  5: 15.28% | Kappa: 0.2742 | Score: 0.2517
+Epoch 15/150
+Train Loss: 5.2370 | Val Loss: 4.7746
+MAE: 29.89 | RMSE: 38.40 | Acc: 1.74% | Acc  1: 3.88% | Acc  3: 9.50% | Acc  5: 13.91% | Kappa: 0.2748 | Score: 0.2450
+Epoch 16/150
+Train Loss: 5.1840 | Val Loss: 5.9897
+MAE: 34.91 | RMSE: 46.75 | Acc: 1.17% | Acc  1: 3.58% | Acc  3: 7.86% | Acc  5: 12.58% | Kappa: 0.2243 | Score: 0.2285
+Epoch 17/150
+Train Loss: 5.1958 | Val Loss: 6.2792
+MAE: 30.15 | RMSE: 38.55 | Acc: 1.54% | Acc  1: 3.65% | Acc  3: 7.93% | Acc  5: 12.01% | Kappa: 0.2497 | Score: 0.2357
+Epoch 18/150
+Train Loss: 5.1441 | Val Loss: 4.8003
+MAE: 28.25 | RMSE: 38.65 | Acc: 1.74% | Acc  1: 4.41% | Acc  3: 9.93% | Acc  5: 15.45% | Kappa: 0.2821 | Score: 0.2521
+Epoch 19/150
+Train Loss: 5.1671 | Val Loss: 5.1334
+MAE: 28.53 | RMSE: 38.89 | Acc: 2.07% | Acc  1: 4.82% | Acc  3: 9.67% | Acc  5: 14.82% | Kappa: 0.2237 | Score: 0.2454
+Epoch 20/150
+Train Loss: 5.1161 | Val Loss: 5.6478
+MAE: 29.39 | RMSE: 40.11 | Acc: 1.40% | Acc  1: 4.05% | Acc  3: 9.57% | Acc  5: 14.41% | Kappa: 0.2436 | Score: 0.2426
+Epoch 21/150
+Train Loss: 5.0967 | Val Loss: 5.0346
+MAE: 28.75 | RMSE: 38.42 | Acc: 1.47% | Acc  1: 3.85% | Acc  3: 9.13% | Acc  5: 14.31% | Kappa: 0.2763 | Score: 0.2465
+Epoch 22/150
+Train Loss: 5.0570 | Val Loss: 4.7291
+MAE: 30.67 | RMSE: 41.72 | Acc: 1.61% | Acc  1: 4.62% | Acc  3: 10.20% | Acc  5: 15.48% | Kappa: 0.1959 | Score: 0.2405
+Epoch 23/150
+Train Loss: 5.0378 | Val Loss: 4.7585
+MAE: 29.08 | RMSE: 40.09 | Acc: 1.20% | Acc  1: 4.48% | Acc  3: 9.67% | Acc  5: 16.05% | Kappa: 0.2236 | Score: 0.2450
+Epoch 24/150
+Train Loss: 5.0056 | Val Loss: 4.7761
+MAE: 30.90 | RMSE: 40.85 | Acc: 1.17% | Acc  1: 3.08% | Acc  3: 7.46% | Acc  5: 11.94% | Kappa: 0.2782 | Score: 0.2361
+Epoch 25/150
+Train Loss: 4.9817 | Val Loss: 4.8452
+MAE: 29.61 | RMSE: 40.45 | Acc: 1.64% | Acc  1: 5.18% | Acc  3: 10.87% | Acc  5: 15.35% | Kappa: 0.2676 | Score: 0.2485
+Epoch 26/150
+Train Loss: 4.9698 | Val Loss: 5.2203
+MAE: 30.38 | RMSE: 40.95 | Acc: 1.87% | Acc  1: 4.78% | Acc  3: 9.70% | Acc  5: 14.48% | Kappa: 0.1900 | Score: 0.2383
+Epoch 27/150
+Train Loss: 4.9726 | Val Loss: 5.7310
+MAE: 31.95 | RMSE: 42.23 | Acc: 1.30% | Acc  1: 3.38% | Acc  3: 7.29% | Acc  5: 11.84% | Kappa: 0.1987 | Score: 0.2273
+Epoch 28/150
+Train Loss: 4.9425 | Val Loss: 4.7612
+MAE: 31.73 | RMSE: 41.81 | Acc: 1.34% | Acc  1: 3.18% | Acc  3: 8.16% | Acc  5: 11.24% | Kappa: 0.2508 | Score: 0.2311
+Epoch 29/150
+Train Loss: 4.9357 | Val Loss: 4.7979
+MAE: 29.98 | RMSE: 39.83 | Acc: 1.47% | Acc  1: 3.78% | Acc  3: 8.49% | Acc  5: 12.91% | Kappa: 0.2515 | Score: 0.2385
+Epoch 30/150
+Train Loss: 4.8906 | Val Loss: 5.3763
+MAE: 27.45 | RMSE: 37.75 | Acc: 1.64% | Acc  1: 4.55% | Acc  3: 10.37% | Acc  5: 16.19% | Kappa: 0.2096 | Score: 0.2475
+Epoch 31/150
+Train Loss: 4.8700 | Val Loss: 4.7630
+MAE: 28.48 | RMSE: 39.87 | Acc: 1.57% | Acc  1: 4.28% | Acc  3: 9.60% | Acc  5: 15.89% | Kappa: 0.2113 | Score: 0.2454
+Epoch 32/150
+Train Loss: 4.8428 | Val Loss: 4.7264
+MAE: 29.26 | RMSE: 38.50 | Acc: 1.44% | Acc  1: 4.05% | Acc  3: 9.50% | Acc  5: 14.05% | Kappa: 0.3139 | Score: 0.2488
+Epoch 33/150
+Train Loss: 4.8154 | Val Loss: 4.8077
+MAE: 29.81 | RMSE: 39.56 | Acc: 1.81% | Acc  1: 4.58% | Acc  3: 9.06% | Acc  5: 12.47% | Kappa: 0.2862 | Score: 0.2422
+Epoch 34/150
+Train Loss: 4.7983 | Val Loss: 4.7373
+MAE: 26.59 | RMSE: 35.17 | Acc: 1.81% | Acc  1: 4.72% | Acc  3: 10.50% | Acc  5: 15.42% | Kappa: 0.3334 | Score: 0.2591
+Epoch 35/150
+Train Loss: 4.7814 | Val Loss: 4.8007
+MAE: 31.26 | RMSE: 41.98 | Acc: 1.44% | Acc  1: 4.15% | Acc  3: 8.19% | Acc  5: 12.27% | Kappa: 0.2373 | Score: 0.2337
+Epoch 36/150
+Train Loss: 4.7651 | Val Loss: 4.7492
+MAE: 30.01 | RMSE: 40.48 | Acc: 1.51% | Acc  1: 4.18% | Acc  3: 8.33% | Acc  5: 12.68% | Kappa: 0.2673 | Score: 0.2395
+Epoch 37/150
+Train Loss: 4.7474 | Val Loss: 4.7251
+MAE: 26.39 | RMSE: 35.61 | Acc: 1.40% | Acc  1: 3.48% | Acc  3: 10.07% | Acc  5: 15.62% | Kappa: 0.3172 | Score: 0.2567
+Epoch 38/150
+Train Loss: 4.7403 | Val Loss: 4.6998
+MAE: 28.28 | RMSE: 38.70 | Acc: 1.84% | Acc  1: 4.82% | Acc  3: 9.70% | Acc  5: 15.02% | Kappa: 0.3000 | Score: 0.2530
+Epoch 39/150
+Train Loss: 4.7287 | Val Loss: 4.7304
+MAE: 28.76 | RMSE: 38.01 | Acc: 1.74% | Acc  1: 4.15% | Acc  3: 8.86% | Acc  5: 13.38% | Kappa: 0.3690 | Score: 0.2540
+Epoch 40/150
+Train Loss: 4.7196 | Val Loss: 4.6652
+MAE: 27.50 | RMSE: 38.08 | Acc: 1.64% | Acc  1: 4.28% | Acc  3: 9.87% | Acc  5: 15.18% | Kappa: 0.3035 | Score: 0.2538
+Epoch 41/150
+Train Loss: 4.7135 | Val Loss: 4.6639
+MAE: 28.22 | RMSE: 38.03 | Acc: 1.40% | Acc  1: 4.28% | Acc  3: 9.73% | Acc  5: 14.65% | Kappa: 0.3302 | Score: 0.2532
+Epoch 42/150
+Train Loss: 4.7050 | Val Loss: 4.6659
+MAE: 26.04 | RMSE: 36.35 | Acc: 2.14% | Acc  1: 5.52% | Acc  3: 12.14% | Acc  5: 17.39% | Kappa: 0.3150 | Score: 0.2651
+Epoch 43/150
+Train Loss: 4.7025 | Val Loss: 4.6714
+MAE: 28.01 | RMSE: 38.14 | Acc: 1.74% | Acc  1: 5.05% | Acc  3: 10.07% | Acc  5: 14.72% | Kappa: 0.3385 | Score: 0.2558
+Epoch 44/150
+Train Loss: 4.6951 | Val Loss: 4.6997
+MAE: 28.76 | RMSE: 38.69 | Acc: 1.54% | Acc  1: 4.08% | Acc  3: 8.96% | Acc  5: 13.08% | Kappa: 0.3299 | Score: 0.2484
+Epoch 45/150
+Train Loss: 4.6894 | Val Loss: 4.6494
+MAE: 26.05 | RMSE: 35.87 | Acc: 1.44% | Acc  1: 4.58% | Acc  3: 10.90% | Acc  5: 16.12% | Kappa: 0.3404 | Score: 0.2610
+Epoch 46/150
+Train Loss: 4.6886 | Val Loss: 4.6654
+MAE: 26.73 | RMSE: 36.00 | Acc: 1.64% | Acc  1: 4.92% | Acc  3: 10.67% | Acc  5: 16.02% | Kappa: 0.3954 | Score: 0.2663
+Epoch 47/150
+Train Loss: 4.6841 | Val Loss: 4.6395
+MAE: 26.02 | RMSE: 35.42 | Acc: 1.64% | Acc  1: 5.22% | Acc  3: 10.37% | Acc  5: 15.48% | Kappa: 0.4084 | Score: 0.2667
+Epoch 48/150
+Train Loss: 4.6791 | Val Loss: 4.6159
+MAE: 25.07 | RMSE: 35.00 | Acc: 2.11% | Acc  1: 5.79% | Acc  3: 11.91% | Acc  5: 18.19% | Kappa: 0.3692 | Score: 0.2738
+Epoch 49/150
+Train Loss: 4.6748 | Val Loss: 4.6192
+MAE: 27.06 | RMSE: 36.65 | Acc: 2.01% | Acc  1: 5.48% | Acc  3: 10.54% | Acc  5: 15.42% | Kappa: 0.3871 | Score: 0.2648
+Epoch 50/150
+Train Loss: 4.6676 | Val Loss: 4.6424
+MAE: 26.38 | RMSE: 36.24 | Acc: 1.77% | Acc  1: 5.05% | Acc  3: 11.04% | Acc  5: 16.32% | Kappa: 0.3738 | Score: 0.2660
+Epoch 51/150
+Train Loss: 4.6584 | Val Loss: 4.6613
+MAE: 26.79 | RMSE: 36.88 | Acc: 1.81% | Acc  1: 5.15% | Acc  3: 10.57% | Acc  5: 16.05% | Kappa: 0.3653 | Score: 0.2640
+Epoch 52/150
+Train Loss: 4.6573 | Val Loss: 4.6335
+MAE: 26.10 | RMSE: 36.13 | Acc: 1.84% | Acc  1: 5.22% | Acc  3: 10.87% | Acc  5: 16.19% | Kappa: 0.3949 | Score: 0.2682
+Epoch 53/150
+Train Loss: 4.6531 | Val Loss: 4.6734
+MAE: 27.17 | RMSE: 36.20 | Acc: 1.61% | Acc  1: 4.58% | Acc  3: 9.67% | Acc  5: 14.08% | Kappa: 0.4316 | Score: 0.2635
+Epoch 54/150
+Train Loss: 4.6447 | Val Loss: 4.6668
+MAE: 27.00 | RMSE: 37.48 | Acc: 1.94% | Acc  1: 5.35% | Acc  3: 10.23% | Acc  5: 15.59% | Kappa: 0.4152 | Score: 0.2679
+Epoch 55/150
+Train Loss: 4.6427 | Val Loss: 4.6526
+MAE: 28.21 | RMSE: 38.32 | Acc: 1.34% | Acc  1: 4.28% | Acc  3: 9.33% | Acc  5: 13.81% | Kappa: 0.3546 | Score: 0.2529
+Epoch 56/150
+Train Loss: 4.6440 | Val Loss: 4.6302
+MAE: 28.16 | RMSE: 38.74 | Acc: 1.47% | Acc  1: 4.25% | Acc  3: 9.57% | Acc  5: 15.28% | Kappa: 0.3643 | Score: 0.2588
+Epoch 57/150
+Train Loss: 4.6369 | Val Loss: 4.7392
+MAE: 28.47 | RMSE: 38.58 | Acc: 1.64% | Acc  1: 4.72% | Acc  3: 9.97% | Acc  5: 14.58% | Kappa: 0.3983 | Score: 0.2605
+Epoch 58/150
+Train Loss: 4.6337 | Val Loss: 4.6944
+MAE: 26.12 | RMSE: 35.15 | Acc: 1.84% | Acc  1: 5.18% | Acc  3: 10.74% | Acc  5: 16.79% | Kappa: 0.4492 | Score: 0.2754
+Epoch 59/150
+Train Loss: 4.6325 | Val Loss: 4.7143
+MAE: 25.40 | RMSE: 33.94 | Acc: 2.24% | Acc  1: 5.32% | Acc  3: 11.44% | Acc  5: 16.59% | Kappa: 0.4730 | Score: 0.2796
+Epoch 60/150
+Train Loss: 4.6209 | Val Loss: 4.6518
+MAE: 24.44 | RMSE: 33.35 | Acc: 2.41% | Acc  1: 5.92% | Acc  3: 12.11% | Acc  5: 18.76% | Kappa: 0.4305 | Score: 0.2835
+Epoch 61/150
+Train Loss: 4.6123 | Val Loss: 4.6785
+MAE: 27.02 | RMSE: 37.75 | Acc: 1.61% | Acc  1: 5.12% | Acc  3: 10.47% | Acc  5: 17.06% | Kappa: 0.3454 | Score: 0.2640
+Epoch 62/150
+Train Loss: 4.6113 | Val Loss: 4.6293
+MAE: 24.74 | RMSE: 34.52 | Acc: 2.14% | Acc  1: 6.22% | Acc  3: 12.24% | Acc  5: 18.36% | Kappa: 0.3984 | Score: 0.2777
+Epoch 63/150
+Train Loss: 4.6071 | Val Loss: 4.7308
+MAE: 25.95 | RMSE: 34.82 | Acc: 1.74% | Acc  1: 5.12% | Acc  3: 11.07% | Acc  5: 16.56% | Kappa: 0.4321 | Score: 0.2728
+Epoch 64/150
+Train Loss: 4.6018 | Val Loss: 4.7165
+MAE: 26.82 | RMSE: 36.61 | Acc: 1.67% | Acc  1: 5.12% | Acc  3: 10.13% | Acc  5: 15.22% | Kappa: 0.4170 | Score: 0.2661
+Epoch 65/150
+Train Loss: 4.6024 | Val Loss: 4.7023
+MAE: 25.91 | RMSE: 35.58 | Acc: 2.07% | Acc  1: 5.85% | Acc  3: 11.47% | Acc  5: 16.69% | Kappa: 0.4271 | Score: 0.2741
+Epoch 66/150
+Train Loss: 4.5947 | Val Loss: 4.9755
+MAE: 27.33 | RMSE: 37.60 | Acc: 2.01% | Acc  1: 5.08% | Acc  3: 11.20% | Acc  5: 16.72% | Kappa: 0.4199 | Score: 0.2717
+Epoch 67/150
+Train Loss: 4.5973 | Val Loss: 6.5853
+MAE: 30.01 | RMSE: 40.95 | Acc: 1.74% | Acc  1: 4.98% | Acc  3: 11.07% | Acc  5: 15.75% | Kappa: 0.4289 | Score: 0.2658
+Epoch 68/150
+Train Loss: 4.5827 | Val Loss: 4.7643
+MAE: 26.06 | RMSE: 36.43 | Acc: 2.21% | Acc  1: 6.15% | Acc  3: 12.54% | Acc  5: 18.60% | Kappa: 0.4077 | Score: 0.2782
+Epoch 69/150
+Train Loss: 4.5827 | Val Loss: 5.4195
+MAE: 26.48 | RMSE: 35.96 | Acc: 1.74% | Acc  1: 4.95% | Acc  3: 11.20% | Acc  5: 16.62% | Kappa: 0.4907 | Score: 0.2783
+Epoch 70/150
+Train Loss: 4.5850 | Val Loss: 5.1215
+MAE: 26.24 | RMSE: 35.56 | Acc: 1.77% | Acc  1: 4.88% | Acc  3: 11.27% | Acc  5: 17.42% | Kappa: 0.4497 | Score: 0.2770
+Epoch 71/150
+Train Loss: 4.5773 | Val Loss: 5.7473
+MAE: 26.90 | RMSE: 37.29 | Acc: 2.07% | Acc  1: 5.25% | Acc  3: 11.34% | Acc  5: 16.76% | Kappa: 0.4470 | Score: 0.2752
+Epoch 72/150
+Train Loss: 4.5738 | Val Loss: 4.8400
+MAE: 24.86 | RMSE: 34.54 | Acc: 2.11% | Acc  1: 6.09% | Acc  3: 12.61% | Acc  5: 18.90% | Kappa: 0.4365 | Score: 0.2829
+Epoch 73/150
+Train Loss: 4.5684 | Val Loss: 5.6139
+MAE: 25.21 | RMSE: 35.45 | Acc: 2.24% | Acc  1: 5.35% | Acc  3: 12.54% | Acc  5: 18.86% | Kappa: 0.4293 | Score: 0.2822
+Epoch 74/150
+Train Loss: 4.5635 | Val Loss: 4.7798
+MAE: 25.92 | RMSE: 36.05 | Acc: 2.11% | Acc  1: 6.29% | Acc  3: 13.85% | Acc  5: 19.43% | Kappa: 0.4881 | Score: 0.2885
+Epoch 75/150
+Train Loss: 4.5578 | Val Loss: 5.4065
+MAE: 26.71 | RMSE: 37.99 | Acc: 2.44% | Acc  1: 5.99% | Acc  3: 12.31% | Acc  5: 18.36% | Kappa: 0.4163 | Score: 0.2787
+Epoch 76/150
+Train Loss: 4.5488 | Val Loss: 5.0065
+MAE: 26.81 | RMSE: 36.69 | Acc: 2.04% | Acc  1: 5.55% | Acc  3: 11.94% | Acc  5: 17.46% | Kappa: 0.4841 | Score: 0.2810
+Epoch 77/150
+Train Loss: 4.5466 | Val Loss: 4.7198
+MAE: 24.93 | RMSE: 34.66 | Acc: 2.47% | Acc  1: 6.19% | Acc  3: 13.14% | Acc  5: 18.70% | Kappa: 0.4845 | Score: 0.2885
+Epoch 78/150
+Train Loss: 4.5446 | Val Loss: 4.7284
+MAE: 24.79 | RMSE: 34.34 | Acc: 2.51% | Acc  1: 6.42% | Acc  3: 12.91% | Acc  5: 18.36% | Kappa: 0.4641 | Score: 0.2857
+Epoch 79/150
+Train Loss: 4.5353 | Val Loss: 9.9029
+MAE: 26.41 | RMSE: 36.51 | Acc: 2.04% | Acc  1: 5.25% | Acc  3: 10.57% | Acc  5: 15.59% | Kappa: 0.4614 | Score: 0.2735
+Epoch 80/150
+Train Loss: 4.5362 | Val Loss: 5.4100
+MAE: 24.92 | RMSE: 35.31 | Acc: 2.51% | Acc  1: 6.39% | Acc  3: 13.11% | Acc  5: 18.66% | Kappa: 0.4553 | Score: 0.2856
+Epoch 81/150
+Train Loss: 4.5288 | Val Loss: 7.9830
+MAE: 25.48 | RMSE: 35.60 | Acc: 2.11% | Acc  1: 6.19% | Acc  3: 12.58% | Acc  5: 18.09% | Kappa: 0.4917 | Score: 0.2853
+Epoch 82/150
+Train Loss: 4.5306 | Val Loss: 5.6805
+MAE: 24.99 | RMSE: 35.00 | Acc: 2.44% | Acc  1: 6.05% | Acc  3: 12.71% | Acc  5: 18.49% | Kappa: 0.4399 | Score: 0.2832
+Epoch 83/150
+Train Loss: 4.5236 | Val Loss: 6.1680
+MAE: 25.23 | RMSE: 36.18 | Acc: 2.54% | Acc  1: 6.89% | Acc  3: 13.51% | Acc  5: 19.53% | Kappa: 0.4329 | Score: 0.2858
+Epoch 84/150
+Train Loss: 4.5232 | Val Loss: 4.9753
+MAE: 24.54 | RMSE: 33.63 | Acc: 2.07% | Acc  1: 5.55% | Acc  3: 12.11% | Acc  5: 18.46% | Kappa: 0.5100 | Score: 0.2891
+Epoch 85/150
+Train Loss: 4.5162 | Val Loss: 5.3542
+MAE: 25.95 | RMSE: 36.50 | Acc: 2.31% | Acc  1: 6.25% | Acc  3: 12.94% | Acc  5: 18.29% | Kappa: 0.4126 | Score: 0.2783
+Epoch 86/150
+Train Loss: 4.5131 | Val Loss: 6.4261
+MAE: 24.24 | RMSE: 34.32 | Acc: 2.88% | Acc  1: 6.79% | Acc  3: 13.51% | Acc  5: 19.46% | Kappa: 0.4857 | Score: 0.2932
+Epoch 87/150
+Train Loss: 4.5054 | Val Loss: 9.7598
+MAE: 24.41 | RMSE: 34.84 | Acc: 2.64% | Acc  1: 6.86% | Acc  3: 13.31% | Acc  5: 20.17% | Kappa: 0.4524 | Score: 0.2909
+Epoch 88/150
+Train Loss: 4.4924 | Val Loss: 6.7397
+MAE: 24.68 | RMSE: 34.70 | Acc: 2.78% | Acc  1: 7.09% | Acc  3: 13.01% | Acc  5: 19.63% | Kappa: 0.4562 | Score: 0.2899
+Epoch 89/150
+Train Loss: 4.4892 | Val Loss: 6.9962
+MAE: 24.91 | RMSE: 35.61 | Acc: 2.58% | Acc  1: 6.22% | Acc  3: 12.51% | Acc  5: 18.70% | Kappa: 0.4747 | Score: 0.2879
+Epoch 90/150
+Train Loss: 4.4867 | Val Loss: 7.1910
+MAE: 24.88 | RMSE: 35.33 | Acc: 2.04% | Acc  1: 6.35% | Acc  3: 12.14% | Acc  5: 18.26% | Kappa: 0.4636 | Score: 0.2834
+Epoch 91/150
+Train Loss: 4.4822 | Val Loss: 5.9312
+MAE: 24.55 | RMSE: 34.63 | Acc: 2.11% | Acc  1: 6.09% | Acc  3: 12.84% | Acc  5: 19.16% | Kappa: 0.4852 | Score: 0.2889
+Epoch 92/150
+Train Loss: 4.4768 | Val Loss: 5.6411
+MAE: 25.54 | RMSE: 35.70 | Acc: 2.27% | Acc  1: 6.25% | Acc  3: 12.78% | Acc  5: 18.70% | Kappa: 0.4905 | Score: 0.2876
+Epoch 93/150
+Train Loss: 4.4708 | Val Loss: 5.9623
+MAE: 25.49 | RMSE: 35.39 | Acc: 2.24% | Acc  1: 5.85% | Acc  3: 12.31% | Acc  5: 17.96% | Kappa: 0.4975 | Score: 0.2860
+Epoch 94/150
+Train Loss: 4.4722 | Val Loss: 7.0135
+MAE: 25.47 | RMSE: 36.05 | Acc: 2.47% | Acc  1: 6.02% | Acc  3: 12.41% | Acc  5: 18.66% | Kappa: 0.4382 | Score: 0.2832
+Epoch 95/150
+Train Loss: 4.4565 | Val Loss: 6.3747
+MAE: 26.04 | RMSE: 36.56 | Acc: 2.24% | Acc  1: 6.09% | Acc  3: 12.78% | Acc  5: 18.60% | Kappa: 0.4821 | Score: 0.2858
+Epoch 96/150
+Train Loss: 4.4523 | Val Loss: 5.2656
+MAE: 25.92 | RMSE: 36.91 | Acc: 2.14% | Acc  1: 5.95% | Acc  3: 12.64% | Acc  5: 19.13% | Kappa: 0.3901 | Score: 0.2780
+Epoch 97/150
+Train Loss: 4.4483 | Val Loss: 5.9099
+MAE: 24.96 | RMSE: 36.03 | Acc: 2.37% | Acc  1: 6.69% | Acc  3: 13.78% | Acc  5: 20.43% | Kappa: 0.4212 | Score: 0.2869
+Epoch 98/150
+Train Loss: 4.4465 | Val Loss: 7.5792
+MAE: 25.59 | RMSE: 36.68 | Acc: 2.24% | Acc  1: 6.42% | Acc  3: 13.55% | Acc  5: 19.20% | Kappa: 0.4482 | Score: 0.2847
+Epoch 99/150
+Train Loss: 4.4423 | Val Loss: 5.8673
+MAE: 24.63 | RMSE: 34.06 | Acc: 2.34% | Acc  1: 6.12% | Acc  3: 12.98% | Acc  5: 19.00% | Kappa: 0.4915 | Score: 0.2898
+Epoch 100/150
+Train Loss: 4.4331 | Val Loss: 6.2835
+MAE: 25.50 | RMSE: 36.33 | Acc: 2.07% | Acc  1: 5.89% | Acc  3: 12.58% | Acc  5: 18.76% | Kappa: 0.4501 | Score: 0.2830
+Epoch 101/150
+Train Loss: 4.4286 | Val Loss: 5.2137
+MAE: 24.93 | RMSE: 35.04 | Acc: 2.41% | Acc  1: 5.62% | Acc  3: 12.41% | Acc  5: 18.80% | Kappa: 0.4814 | Score: 0.2882
+Epoch 102/150
+Train Loss: 4.4272 | Val Loss: 5.8657
+MAE: 24.97 | RMSE: 35.63 | Acc: 2.31% | Acc  1: 5.89% | Acc  3: 12.17% | Acc  5: 18.26% | Kappa: 0.4560 | Score: 0.2836
+Epoch 103/150
+Train Loss: 4.4156 | Val Loss: 7.7759
+MAE: 26.73 | RMSE: 39.17 | Acc: 2.24% | Acc  1: 5.59% | Acc  3: 12.01% | Acc  5: 18.09% | Kappa: 0.4115 | Score: 0.2766
+Epoch 104/150
+Train Loss: 4.4178 | Val Loss: 6.8188
+MAE: 25.60 | RMSE: 37.03 | Acc: 2.51% | Acc  1: 5.45% | Acc  3: 12.78% | Acc  5: 19.00% | Kappa: 0.4364 | Score: 0.2840
+Epoch 105/150
+Train Loss: 4.4092 | Val Loss: 5.8984
+MAE: 24.79 | RMSE: 34.95 | Acc: 2.34% | Acc  1: 6.25% | Acc  3: 13.55% | Acc  5: 19.73% | Kappa: 0.5042 | Score: 0.2932
+Epoch 106/150
+Train Loss: 4.3986 | Val Loss: 5.0420
+MAE: 25.00 | RMSE: 35.34 | Acc: 2.64% | Acc  1: 6.12% | Acc  3: 12.84% | Acc  5: 18.83% | Kappa: 0.4780 | Score: 0.2888
+Epoch 107/150
+Train Loss: 4.3919 | Val Loss: 7.0892
+MAE: 25.08 | RMSE: 36.40 | Acc: 2.11% | Acc  1: 5.92% | Acc  3: 13.24% | Acc  5: 19.43% | Kappa: 0.4544 | Score: 0.2860
+Epoch 108/150
+Train Loss: 4.3928 | Val Loss: 8.0901
+MAE: 26.09 | RMSE: 36.90 | Acc: 2.41% | Acc  1: 6.29% | Acc  3: 12.71% | Acc  5: 18.76% | Kappa: 0.4820 | Score: 0.2869
+Epoch 109/150
+Train Loss: 4.3831 | Val Loss: 7.4102
+MAE: 25.02 | RMSE: 35.90 | Acc: 2.11% | Acc  1: 6.02% | Acc  3: 13.81% | Acc  5: 19.67% | Kappa: 0.4580 | Score: 0.2872
+Epoch 110/150
+Train Loss: 4.3816 | Val Loss: 11.8131
+MAE: 26.65 | RMSE: 38.79 | Acc: 2.04% | Acc  1: 5.55% | Acc  3: 12.21% | Acc  5: 18.19% | Kappa: 0.4252 | Score: 0.2775
+Epoch 111/150
+Train Loss: 4.3814 | Val Loss: 9.6094
+MAE: 25.96 | RMSE: 37.48 | Acc: 2.41% | Acc  1: 5.82% | Acc  3: 12.58% | Acc  5: 18.83% | Kappa: 0.4604 | Score: 0.2851
+Epoch 112/150
+Train Loss: 4.3716 | Val Loss: 8.5393
+MAE: 25.31 | RMSE: 36.88 | Acc: 2.01% | Acc  1: 6.02% | Acc  3: 13.24% | Acc  5: 19.20% | Kappa: 0.4623 | Score: 0.2855
+Epoch 113/150
+Train Loss: 4.3639 | Val Loss: 8.6968
+MAE: 25.21 | RMSE: 36.50 | Acc: 2.74% | Acc  1: 6.72% | Acc  3: 13.21% | Acc  5: 19.20% | Kappa: 0.4632 | Score: 0.2886
+Epoch 114/150
+Train Loss: 4.3615 | Val Loss: 10.1654
+MAE: 26.86 | RMSE: 39.11 | Acc: 1.97% | Acc  1: 5.48% | Acc  3: 12.68% | Acc  5: 18.06% | Kappa: 0.4369 | Score: 0.2778
+Epoch 115/150
+Train Loss: 4.3549 | Val Loss: 5.8367
+MAE: 24.92 | RMSE: 34.87 | Acc: 2.41% | Acc  1: 5.62% | Acc  3: 13.24% | Acc  5: 19.70% | Kappa: 0.5053 | Score: 0.2933
+Epoch 116/150
+Train Loss: 4.3577 | Val Loss: 8.5136
+MAE: 25.64 | RMSE: 37.44 | Acc: 2.47% | Acc  1: 6.05% | Acc  3: 13.11% | Acc  5: 19.26% | Kappa: 0.4367 | Score: 0.2846
+Epoch 117/150
+Train Loss: 4.3460 | Val Loss: 5.6251
+MAE: 25.01 | RMSE: 34.95 | Acc: 2.24% | Acc  1: 5.65% | Acc  3: 12.84% | Acc  5: 18.29% | Kappa: 0.4856 | Score: 0.2864
+Epoch 118/150
+Train Loss: 4.3414 | Val Loss: 13.8050
+MAE: 25.72 | RMSE: 38.08 | Acc: 2.37% | Acc  1: 5.82% | Acc  3: 13.44% | Acc  5: 19.70% | Kappa: 0.4267 | Score: 0.2845
+Epoch 119/150
+Train Loss: 4.3378 | Val Loss: 10.9635
+MAE: 25.52 | RMSE: 37.80 | Acc: 2.58% | Acc  1: 6.19% | Acc  3: 14.08% | Acc  5: 20.40% | Kappa: 0.4404 | Score: 0.2890
+Epoch 120/150
+Train Loss: 4.3361 | Val Loss: 10.8040
+MAE: 26.61 | RMSE: 38.52 | Acc: 2.17% | Acc  1: 5.59% | Acc  3: 12.24% | Acc  5: 17.93% | Kappa: 0.4488 | Score: 0.2796
+Epoch 121/150
+Train Loss: 4.3258 | Val Loss: 7.5095
+MAE: 26.15 | RMSE: 37.21 | Acc: 2.47% | Acc  1: 5.89% | Acc  3: 12.44% | Acc  5: 18.26% | Kappa: 0.4780 | Score: 0.2852
+Epoch 122/150
+Train Loss: 4.3251 | Val Loss: 5.7703
+MAE: 24.51 | RMSE: 34.68 | Acc: 2.41% | Acc  1: 5.82% | Acc  3: 12.94% | Acc  5: 19.43% | Kappa: 0.4798 | Score: 0.2904
+Epoch 123/150
+Train Loss: 4.3225 | Val Loss: 9.9019
+MAE: 25.68 | RMSE: 37.59 | Acc: 2.31% | Acc  1: 6.42% | Acc  3: 13.14% | Acc  5: 19.53% | Kappa: 0.4341 | Score: 0.2845
+Epoch 124/150
+Train Loss: 4.3292 | Val Loss: 10.9950
+MAE: 26.84 | RMSE: 39.70 | Acc: 2.27% | Acc  1: 6.15% | Acc  3: 12.94% | Acc  5: 18.86% | Kappa: 0.4143 | Score: 0.2792
+Epoch 125/150
+Train Loss: 4.3095 | Val Loss: 9.4053
+MAE: 25.53 | RMSE: 37.75 | Acc: 2.58% | Acc  1: 6.49% | Acc  3: 13.28% | Acc  5: 19.60% | Kappa: 0.4301 | Score: 0.2855
+Epoch 126/150
+Train Loss: 4.3012 | Val Loss: 8.5706
+MAE: 25.73 | RMSE: 37.31 | Acc: 2.34% | Acc  1: 5.99% | Acc  3: 13.31% | Acc  5: 19.46% | Kappa: 0.4644 | Score: 0.2874
+Epoch 127/150
+Train Loss: 4.3089 | Val Loss: 8.5575
+MAE: 25.89 | RMSE: 37.89 | Acc: 2.27% | Acc  1: 6.05% | Acc  3: 12.94% | Acc  5: 19.26% | Kappa: 0.4377 | Score: 0.2837
+Epoch 128/150
+Train Loss: 4.3027 | Val Loss: 11.4597
+MAE: 25.25 | RMSE: 36.74 | Acc: 2.14% | Acc  1: 5.38% | Acc  3: 12.58% | Acc  5: 19.26% | Kappa: 0.4618 | Score: 0.2862
+Epoch 129/150
+Train Loss: 4.2969 | Val Loss: 9.0268
+MAE: 26.22 | RMSE: 38.09 | Acc: 2.01% | Acc  1: 5.45% | Acc  3: 12.64% | Acc  5: 18.56% | Kappa: 0.4539 | Score: 0.2818
+Epoch 130/150
+Train Loss: 4.2898 | Val Loss: 7.8740
+MAE: 25.93 | RMSE: 37.34 | Acc: 2.44% | Acc  1: 5.89% | Acc  3: 12.88% | Acc  5: 19.33% | Kappa: 0.4681 | Score: 0.2876
+Epoch 131/150
+Train Loss: 4.2919 | Val Loss: 5.7361
+MAE: 23.27 | RMSE: 33.08 | Acc: 2.74% | Acc  1: 6.86% | Acc  3: 14.28% | Acc  5: 21.20% | Kappa: 0.5013 | Score: 0.3005
+Epoch 132/150
+Train Loss: 4.2826 | Val Loss: 5.8376
+MAE: 23.74 | RMSE: 33.24 | Acc: 2.34% | Acc  1: 6.02% | Acc  3: 13.08% | Acc  5: 20.37% | Kappa: 0.5264 | Score: 0.2984
+Epoch 133/150
+Train Loss: 4.2888 | Val Loss: 9.9868
+MAE: 25.20 | RMSE: 36.91 | Acc: 2.11% | Acc  1: 5.52% | Acc  3: 13.01% | Acc  5: 19.60% | Kappa: 0.4605 | Score: 0.2870
+Epoch 134/150
+Train Loss: 4.2860 | Val Loss: 5.8443
+MAE: 24.63 | RMSE: 34.87 | Acc: 2.27% | Acc  1: 6.19% | Acc  3: 12.84% | Acc  5: 19.43% | Kappa: 0.5087 | Score: 0.2926
+Epoch 135/150
+Train Loss: 4.2817 | Val Loss: 8.4933
+MAE: 25.15 | RMSE: 36.75 | Acc: 2.34% | Acc  1: 5.89% | Acc  3: 13.11% | Acc  5: 19.73% | Kappa: 0.4597 | Score: 0.2883
+Epoch 136/150
+Train Loss: 4.2754 | Val Loss: 5.6763
+MAE: 23.91 | RMSE: 33.81 | Acc: 2.27% | Acc  1: 5.85% | Acc  3: 13.44% | Acc  5: 19.90% | Kappa: 0.5137 | Score: 0.2953
+Epoch 137/150
+Train Loss: 4.2794 | Val Loss: 10.0827
+MAE: 25.43 | RMSE: 36.80 | Acc: 2.47% | Acc  1: 5.89% | Acc  3: 12.61% | Acc  5: 18.63% | Kappa: 0.4777 | Score: 0.2871
+Epoch 138/150
+Train Loss: 4.2788 | Val Loss: 5.8053
+MAE: 24.42 | RMSE: 34.39 | Acc: 2.61% | Acc  1: 6.12% | Acc  3: 13.21% | Acc  5: 19.73% | Kappa: 0.5137 | Score: 0.2956
+Epoch 139/150
+Train Loss: 4.2746 | Val Loss: 7.6549
+MAE: 24.39 | RMSE: 35.46 | Acc: 2.84% | Acc  1: 6.59% | Acc  3: 13.68% | Acc  5: 20.80% | Kappa: 0.4730 | Score: 0.2957
+Epoch 140/150
+Train Loss: 4.2772 | Val Loss: 13.8216
+MAE: 26.14 | RMSE: 38.71 | Acc: 2.11% | Acc  1: 6.02% | Acc  3: 13.08% | Acc  5: 19.87% | Kappa: 0.4375 | Score: 0.2846
+Epoch 141/150
+Train Loss: 4.2684 | Val Loss: 6.0497
+MAE: 23.59 | RMSE: 33.15 | Acc: 2.61% | Acc  1: 6.52% | Acc  3: 13.85% | Acc  5: 20.40% | Kappa: 0.5191 | Score: 0.2990
+Epoch 142/150
+Train Loss: 4.2757 | Val Loss: 6.3316
+MAE: 23.98 | RMSE: 34.15 | Acc: 2.47% | Acc  1: 6.22% | Acc  3: 13.41% | Acc  5: 20.03% | Kappa: 0.5054 | Score: 0.2956
+Epoch 143/150
+Train Loss: 4.2729 | Val Loss: 7.4036
+MAE: 24.59 | RMSE: 35.88 | Acc: 2.51% | Acc  1: 6.42% | Acc  3: 13.28% | Acc  5: 20.37% | Kappa: 0.4632 | Score: 0.2918
+Epoch 144/150
+Train Loss: 4.2697 | Val Loss: 13.3631
+MAE: 25.50 | RMSE: 37.76 | Acc: 2.31% | Acc  1: 6.25% | Acc  3: 13.31% | Acc  5: 20.00% | Kappa: 0.4449 | Score: 0.2872
+Epoch 145/150
+Train Loss: 4.2712 | Val Loss: 5.4038
+MAE: 24.39 | RMSE: 34.16 | Acc: 2.34% | Acc  1: 5.42% | Acc  3: 12.27% | Acc  5: 18.56% | Kappa: 0.5028 | Score: 0.2899
+Epoch 146/150
+Train Loss: 4.2681 | Val Loss: 6.3827
+MAE: 23.91 | RMSE: 34.01 | Acc: 2.37% | Acc  1: 6.09% | Acc  3: 13.34% | Acc  5: 20.17% | Kappa: 0.5014 | Score: 0.2952
+Epoch 147/150
+Train Loss: 4.2697 | Val Loss: 5.7749
+MAE: 24.28 | RMSE: 34.33 | Acc: 2.24% | Acc  1: 5.82% | Acc  3: 12.94% | Acc  5: 19.20% | Kappa: 0.4983 | Score: 0.2911
+Epoch 148/150
+Train Loss: 4.2701 | Val Loss: 10.0795
+MAE: 25.43 | RMSE: 37.22 | Acc: 2.51% | Acc  1: 6.22% | Acc  3: 13.11% | Acc  5: 19.80% | Kappa: 0.4697 | Score: 0.2899
+Epoch 149/150
+Train Loss: 4.2720 | Val Loss: 10.5374
+MAE: 26.05 | RMSE: 38.16 | Acc: 2.27% | Acc  1: 5.52% | Acc  3: 12.24% | Acc  5: 18.66% | Kappa: 0.4481 | Score: 0.2828
+Epoch 150/150
+Train Loss: 4.2577 | Val Loss: 6.3645
+MAE: 23.93 | RMSE: 33.73 | Acc: 2.51% | Acc  1: 6.12% | Acc  3: 13.31% | Acc  5: 19.93% | Kappa: 0.5145 | Score: 0.2963
+Training completed. Best score: 0.3005

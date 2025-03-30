@@ -1,0 +1,5 @@
+annotations/
+trainset/
+valset/
+best_model.pth
+.venv/
